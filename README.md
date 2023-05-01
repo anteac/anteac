@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anteac</h1>
-<h3 align="center">A jack of all trades</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anteac&label=Profile%20views&color=0e75b6&style=flat" alt="anteac" /> </p>
-
-- 🔭 I’m currently working on **secret projects**
 
 - 🌱 I’m currently learning **DevOps, kubernetes**
 
