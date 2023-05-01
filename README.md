@@ -7,10 +7,8 @@
 
 - 🌱 I’m currently learning **DevOps, kubernetes**
 
-- 📫 How to reach me **anteac@antea.cc**
+- 📫 How to reach me for personal inquiries  **anteac@antea.cc**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
